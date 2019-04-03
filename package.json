@@ -1,0 +1,14 @@
+{
+  "name": "zillow-loader",
+  "version": "1.0.0",
+  "description": "Zillow Loader",
+  "dependencies": {
+    "express": "^4.13.0",
+    "request": "^2.58.0",
+    "body-parser": "^1.13.2",
+    "async": "^2.6.1",
+    "xml2js": "^0.4.17",
+    "lodash": "^4.13.1"
+  },
+  "license": "MIT"
+}
